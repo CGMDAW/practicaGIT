@@ -8,13 +8,3 @@ C:\Users\Carlos\source\repos\CGMDAW\practicaGIT\WindowsFormsApp1\WindowsFormsApp
 C:\Users\Carlos\source\repos\CGMDAW\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Carlos\source\repos\CGMDAW\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Carlos\source\repos\CGMDAW\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\Users\Carlos\Desktop\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
